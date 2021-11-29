@@ -66,7 +66,7 @@ for the tree of main files of app
 *"NewCSV.php":* it contains the class NewCSV .
 		 
 		 
-****tests/ Files:**:**
+**tests/ Files:**
 	
 *"NewCSVTest.php":* it contains the class NewCSVTest and an extended class from phpunit .
  
@@ -98,7 +98,7 @@ cd /to/path/where_composer_json
 
 ## Note
 
-Respecting the privacy of this test , the test is not on GITHub . Please , contact me for any bug from my website *https://mehdi.contact* or by my address *belhadj.mehdi93@gmail.com*.
+Please , contact me for any bug from my website *https://mehdi.contact* or by my address *belhadj.mehdi93@gmail.com*.
 
 ## Contributing 
 
